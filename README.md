@@ -14,5 +14,6 @@ Thank you for visiting my project
 
 ## PROJECT SOLUTION AND LIVE URL
 
-solution - [click here]()
-live url - [click here]()
+solution - [click here](https://github.com/Vinoth30457/netflix.git)
+
+live url - [click here](https://resilient-puppy-ce2f2e.netlify.app)
