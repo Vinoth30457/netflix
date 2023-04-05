@@ -15,4 +15,5 @@ Thank you for visiting my project
 ## PROJECT SOLUTION AND LIVE URL
 
 solution - [click here]()
-live url - [click here]()
+
+live url - [click here](https://resilient-puppy-ce2f2e.netlify.app)
