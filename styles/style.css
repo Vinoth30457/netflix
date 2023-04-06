@@ -53,8 +53,7 @@ body {
 .container {
   width: 100%;
   margin: 0 auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding: 5rem 1rem;
   background-color: var(--black-bg);
 }
 
@@ -162,8 +161,6 @@ body {
 
 .login-details input {
   padding: 0.75rem 0;
-  padding-right: 2rem;
-  padding-left: 1rem;
   color: #fff;
   border: 0.5px solid gray;
   background-color: var(--black-bg);
