@@ -16,4 +16,4 @@ Thank you for visiting my project
 
 solution - [click here](https://github.com/Vinoth30457/netflix.git)
 
-live url - https://helpful-kelpie-475099.netlify.app
+live url - https://effulgent-kleicha-4a8226.netlify.app
